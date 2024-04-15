@@ -8,6 +8,8 @@
 ├── Metadata - Case study_ Analyzing customer churn in Power BI.pdf                 <- metadata
 ├── README.md                                                                       <- README
 ```
+## Business problem
+Databel is a fictional telecom company. It provides mobile services for customers, including call and data services. The analysis attempted to identify the source of the churn problem for Databel and provide insights.  
 
 ## Data 
 There are 6,687 records and 29 columns. Fields include: 
@@ -54,5 +56,4 @@ https://app.powerbi.com/groups/me/reports/0b0cdfb0-22fd-44fd-8d30-685bacbdb41c?e
  <img src="https://github.com/Taweilo/vg-sales-dashbaord/blob/main/VG%20Sales%20Dashboard.pdf" width="1000">
  <img src="https://github.com/Taweilo/vg-sales-dashbaord/blob/main/VG%20Sales%20Dashboard.pdf" width="1000">
 
-## Reference 
-- Dashboard inspiration: https://www.youtube.com/watch?v=7Z3m3Z3c7Ng&list=WL&index=28
+
