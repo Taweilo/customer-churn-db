@@ -3,11 +3,11 @@
 ![Power BI](https://img.shields.io/badge/%20Power%20BI-FFFFFF?style=for-the-badge&logo=Power%20BI&logoColor=F2C811)
 
 ```
-├── README.md                               <- README
-├── VG Sales Dashboard.pbix                 <- power bi doc
-├── VG Sales Dashboard.pdf                  <- dashboard image
-├── VG_Game_Logo.png                        <- logo for dashboard
-├── vgsales.csv                             <- dataset  
+├── Churn Analytics Dashboard.pbix                                                  <- power bi doc
+├── Databel - Data.csv                                                              <- data 
+├── Metadata - Case study_ Analyzing customer churn in Power BI.pdf                 <- metadata
+├── README.md                                                                       <- README
+
 ```
 
 ## Data 
@@ -41,8 +41,6 @@ There are 6,687 records and 29 columns. Fields include:
 | Extra Data Charges              | Contains the extra charges for data downloads for customers who are not on an unlimited plan.                       |
 | Monthly Charges                 | Average of all Monthly Charges to the customer.                                                                    |
 | Total Charges                   | Sum of all monthly charges.                                                                                        |
-
-
   
 ## Dashboard include
 * Overview
@@ -52,6 +50,9 @@ There are 6,687 records and 29 columns. Fields include:
 
 ## Deployment
 https://app.powerbi.com/groups/me/reports/0b0cdfb0-22fd-44fd-8d30-685bacbdb41c?experience=power-bi
+ <img src="https://github.com/Taweilo/vg-sales-dashbaord/blob/main/VG%20Sales%20Dashboard.pdf" width="1000">
+ <img src="https://github.com/Taweilo/vg-sales-dashbaord/blob/main/VG%20Sales%20Dashboard.pdf" width="1000">
+ <img src="https://github.com/Taweilo/vg-sales-dashbaord/blob/main/VG%20Sales%20Dashboard.pdf" width="1000">
  <img src="https://github.com/Taweilo/vg-sales-dashbaord/blob/main/VG%20Sales%20Dashboard.pdf" width="1000">
 
 ## Reference 
