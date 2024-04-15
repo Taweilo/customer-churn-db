@@ -7,7 +7,6 @@
 ├── Databel - Data.csv                                                              <- data 
 ├── Metadata - Case study_ Analyzing customer churn in Power BI.pdf                 <- metadata
 ├── README.md                                                                       <- README
-
 ```
 
 ## Data 
@@ -46,7 +45,7 @@ There are 6,687 records and 29 columns. Fields include:
 * Overview
 * Demographics
 * Insights
-* Extra Charhes
+* Extra Charges
 
 ## Deployment
 https://app.powerbi.com/groups/me/reports/0b0cdfb0-22fd-44fd-8d30-685bacbdb41c?experience=power-bi
