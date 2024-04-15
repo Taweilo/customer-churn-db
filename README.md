@@ -52,7 +52,8 @@ There are 6,687 records and 29 columns. Fields include:
 
 ## Deployment
 https://app.powerbi.com/groups/me/reports/0b0cdfb0-22fd-44fd-8d30-685bacbdb41c?experience=power-bi
- <img src="https://github.com/Taweilo/customer-churn-db/blob/main/Churn%20Analytics%20Dashboard.pdf" width="1000">
+
+<img src="https://github.com/Taweilo/customer-churn-db/blob/main/Churn%20Analytics%20Dashboard.pdf" width="1000">
 
 
 
